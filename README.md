@@ -12,7 +12,7 @@ In this Python Space Shooter app, you and a friend can engage in intense space b
 </p>
 
 <!-- PREVIEW IMAGE -->
-<img class="preview" src="https://github.com/jasanpreetn9/music-player/blob/main/Preview.png?raw=true">
+<img class="preview" src="https://github.com/jasanpreetn9/space-shooter/blob/main/Preview.png?raw=true">
 
 <hr/>
 
